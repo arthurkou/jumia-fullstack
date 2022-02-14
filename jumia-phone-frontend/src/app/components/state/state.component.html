@@ -1,0 +1,22 @@
+<app-search></app-search>
+<table class="table">
+
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Phone</th>
+        <th>State</th>
+        <th>Country</th>
+      </tr>
+    </thead>
+  
+    <tbody>
+      <tr *ngFor="let tempCustomer of customers">
+        <td>{{ tempCustomer.name }}</td>
+        <td>{{ tempCustomer.phone}}</td>
+        <td>{{ tempCustomer.contact.state }}</td>
+        <td>{{ tempCustomer.contact.country }}</td>
+      </tr>
+    </tbody>
+
+</table>

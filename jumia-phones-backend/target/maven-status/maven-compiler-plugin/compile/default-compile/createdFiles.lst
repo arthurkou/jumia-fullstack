@@ -1,0 +1,13 @@
+com\jumia\phone\entity\Contact.class
+com\jumia\phone\entity\Ethiopia.class
+com\jumia\phone\entity\Morocco.class
+com\jumia\phone\repository\CustomerRepository.class
+com\jumia\phone\controller\CustomerController.class
+com\jumia\phone\entity\Mozambique.class
+com\jumia\phone\entity\Country.class
+com\jumia\phone\entity\Customer.class
+com\jumia\phone\entity\Uganda.class
+com\jumia\phone\JumiaPhoneApplication.class
+com\jumia\phone\entity\Camaroon.class
+com\jumia\phone\service\CustomerService.class
+com\jumia\phone\repository\CustomerRepositoryInterface.class
