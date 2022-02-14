@@ -43,7 +43,7 @@ yarn start
 - Mockito
 - Design patterns
 ## Frontend Stack
-- HTML / CSS  / TypeScript
+- HTML / CSS  / Javascript / TypeScript
 - Angular
 - Bootstrap
 
