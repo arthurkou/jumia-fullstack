@@ -24,7 +24,7 @@ Requirement: This project was generated with [Angular CLI](https://github.com/an
 git clone https://github.com/arthurkou/jumia-fullstack
 
 # Get into the frontend folder
-cd jumia-phone-frontend
+cd jumia-phones-frontend
 
 # Build project
 ng build
